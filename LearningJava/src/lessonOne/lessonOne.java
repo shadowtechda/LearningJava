@@ -8,6 +8,7 @@ public class lessonOne {
 	public static void main(String[] args) {
 		System.out.println("What time is it?");
 		System.out.println("Super Late!");
+		System.out.println("time to go to sleep.");
 	}
 
 }
